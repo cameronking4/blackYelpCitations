@@ -26,4 +26,4 @@ Online Links
 - https://docs.google.com/document/d/1KT2D1pfdWGjzi0ehdSIkR_g-xV_1O1SvVrrToG6msMo/edit
 - https://www.yelp.com/collection/FXDOTfw9y7LhSA_VZbpAmg
 
-Combining all this data, we aim to start building the most comprehensive app on the market. Could see someone wanting to buy, j for the data organization
+Combining all this data, we aim to start building the most comprehensive app on the market
